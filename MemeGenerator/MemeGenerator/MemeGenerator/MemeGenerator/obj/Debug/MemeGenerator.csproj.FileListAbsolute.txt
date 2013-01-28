@@ -1,0 +1,63 @@
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\ApplicationIcon.png
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\Background.png
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\MemeGenerator.dll
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\MemeGenerator.pdb
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\AppManifest.xaml
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\MemeGenerator.xap
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\obj\Debug\App.g.i.cs
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\obj\Debug\MainPage.g.i.cs
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\obj\Debug\Page2.g.i.cs
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.g.resources
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.dll
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.pdb
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\obj\Debug\XapCacheFile.xml
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\ApplicationIcon.png
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\Background.png
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\MemeGenerator.dll
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\MemeGenerator.pdb
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\AppManifest.xaml
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\MemeGenerator.xap
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\obj\Debug\App.g.i.cs
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\obj\Debug\MainPage.g.i.cs
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\obj\Debug\Page2.g.i.cs
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.g.resources
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.dll
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.pdb
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\obj\Debug\XapCacheFile.xml
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhone.dll
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.dll
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Sean\Desktop\Windows meme maker\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\ApplicationIcon.png
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\Background.png
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\MemeGenerator.dll
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\MemeGenerator.pdb
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\AppManifest.xaml
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\MemeGenerator.xap
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhone.pdb
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhone.xml
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.pdb
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\Bin\Debug\WriteableBitmapExWinPhoneXnaDependant.xml
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\App.g.i.cs
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\MainPage.g.i.cs
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\Page2.g.i.cs
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.g.resources
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.dll
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.pdb
+C:\Users\Dan\Documents\Programming\Windows\WindowsPhone\Apps\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\XapCacheFile.xml
+C:\Users\Sean\Dropbox\MemeGenerator\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Dropbox\MemeGenerator\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\App.g.i.cs
+C:\Users\Sean\Dropbox\MemeGenerator\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\MainPage.g.i.cs
+C:\Users\Sean\Dropbox\MemeGenerator\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\Page2.g.i.cs
+C:\Users\Sean\Dropbox\MemeGenerator\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.g.resources
+C:\Users\Sean\Dropbox\MemeGenerator\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.dll
+C:\Users\Sean\Dropbox\MemeGenerator\MemeGenerator\MemeGenerator\MemeGenerator\obj\Debug\MemeGenerator.pdb

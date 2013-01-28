@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SEANLAPPYTAPPY</Machine>
+    <WindowsUser>Sean</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>9CDEF606ECAB38487E391922C30D210AC4BADC4DF28FB19E21A35EE519A0BDC5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>148600e4-1498-4a56-b7e5-9c26cffde888_1.0.0.0_neutral__e0gb3t4ba2k4g</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>148600e4-1498-4a56-b7e5-9c26cffde888_e0gb3t4ba2k4g!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>148600e4-1498-4a56-b7e5-9c26cffde888</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Sean</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-15T23:12:18.305</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\bin\Debug\MemoryMaker.exe">
+      <PackagePath>MemoryMaker.exe</PackagePath>
+      <Modified>2013-01-15T23:12:17.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\bin\Debug\MemoryMaker.pdb">
+      <PackagePath>MemoryMaker.pdb</PackagePath>
+      <Modified>2013-01-15T23:12:17.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\2424.png">
+      <PackagePath>Assets\2424.png</PackagePath>
+      <Modified>2013-01-15T23:09:10.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\248120.png">
+      <PackagePath>Assets\248120.png</PackagePath>
+      <Modified>2013-01-15T23:09:10.299</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2013-01-15T23:09:10.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-15T23:09:12.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-15T23:09:12.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-15T23:09:13.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-15T23:09:13.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-15T23:09:13.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\WideLogo.scale-80.png">
+      <PackagePath>Assets\WideLogo.scale-80.png</PackagePath>
+      <Modified>2013-01-15T23:09:13.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\beep.mp3">
+      <PackagePath>Assets\beep.mp3</PackagePath>
+      <Modified>2013-01-15T23:09:10.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\dululu.mp3">
+      <PackagePath>Assets\dululu.mp3</PackagePath>
+      <Modified>2013-01-15T23:09:10.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\quack.mp3">
+      <PackagePath>Assets\quack.mp3</PackagePath>
+      <Modified>2013-01-15T23:09:12.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\shashashaw.mp3">
+      <PackagePath>Assets\shashashaw.mp3</PackagePath>
+      <Modified>2013-01-15T23:09:12.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\woo.mp3">
+      <PackagePath>Assets\woo.mp3</PackagePath>
+      <Modified>2013-01-15T23:09:13.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Assets\yaDunGud.mp3">
+      <PackagePath>Assets\yaDunGud.mp3</PackagePath>
+      <Modified>2013-01-15T23:09:13.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-01-15T23:09:55.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-01-15T23:08:19.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-01-15T23:11:50.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="Z:\GitProjects\WindowsPhoneApps\FloridaSuspendedDriver\MemoryMaker\MemoryMaker\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-15T23:12:18.082</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
